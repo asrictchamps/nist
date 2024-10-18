@@ -1,2 +1,2 @@
-# NIST
-Improve the current https://nist.com.sg website
+# NSIT
+Improve the current https://nsit.com.sg website
